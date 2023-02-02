@@ -614,3 +614,7 @@ vendor/lib64/sensors.ssc.so
 vendor/etc/wifi/bdwlan.bin
 vendor/etc/wifi/bdwlan_ch0.bin
 vendor/etc/wifi/bdwlan_ch1.bin
+
+# Time services
+vendor/lib/libtime_genoff.so
+vendor/lib64/libtime_genoff.so
